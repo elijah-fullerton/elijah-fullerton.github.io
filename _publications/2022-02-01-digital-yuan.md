@@ -3,9 +3,10 @@ title: "The People's Republic of China's Digital Yuan: Its Environment, Design, 
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'The People’s Republic of China (PRC) has rapidly achieved a relatively high degree of financial inclusion (access of individuals to financial products and services) as a result of the development of various large-scale financial platforms using financial technology (fintech) to reduce the cost of providing financial services. Most notable are the two companies Ant Group and Tencent, which started in digital payments but have branched out into other bank-like services, such as investment products and loans. At the same time, the People’s Bank of China (PBC) has been developing a central bank digital currency (CBDC), specifically the digital yuan. The digital yuan has a link to the legacy yuan in value terms but could act for retail digital transactions in a centralized payment system. This paper examines
+the likely contributions of the digital yuan to financial inclusion and financial stability in the PRC and includes the following: A description of the current state of digital payments in the PRC, including the role of non-banking platforms, such as Ant Group’s Alipay and Tencent’s WeChat Pay, as well as that of commercial banks. A description of the current state of digital finance in the PRC. A description of the current state of financial inclusion in the PRC. A description of the PBC’s digital yuan project, including the modalities available to retail users (individuals and firms), the mechanisms (such as bank intermediaries) that can make the digital yuan available to such users, and the settlement processes. An analysis of the expected contribution of the PBC’s digital yuan to financial stability, taking into account the possible effects of the introduction of the digital yuan on the assets and liabilities of commercial banks and on private borrowing behavior as well as the possible impacts on non-bank firms, such as Ant Group and Tencent. An analysis of the expected contribution of the PBC’s digital yuan to financial inclusion, taking into account the expected value contributions of the digital yuan to retail users beyond what they obtain from the current system'
+date: 2022-02-01
+venue: 'ADBI Discussion Paper Series'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf](https://www.adb.org/sites/default/files/publication/772316/adb-wp1306.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
