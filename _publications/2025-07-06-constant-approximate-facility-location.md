@@ -2,10 +2,10 @@
 title: "Constant-Approximate and Constant-Strategyproof Two-Facility Location"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-07-06-constant-approximate-facility-location.md
+permalink: /publication/2025-07-06-constant-approximate-facility-location
 excerpt: 'We study deterministic mechanisms for the two-facility location problem. Given the reported locations of n agents on the real line, such a mechanism specifies where to build the two facilities. The single-facility variant of this problem admits a simple strategyproof mechanism that minimizes social cost. For two facilities, however, it is known that any strategyproof mechanism is  -approximate. We seek to circumvent this strong lower bound by relaxing the problem requirements. Following other work in the facility location literature, we consider a relaxed form of strategyproofness in which no agent can lie and improve their outcome by more than a constant factor. Because the aforementioned   lower bound generalizes easily to constant-strategyproof mechanisms, we introduce a second relaxation: Allowing the facilities (but not the agents) to be located in the plane. Our first main result is a natural mechanism for this relaxation that is constant-approximate and constant-strategyproof. A characteristic of this mechanism is that a small change in the input profile can produce a large change in the solution. Motivated by this observation, and also by results in the facility reallocation literature, our second main result is a constant-approximate, constant-strategyproof, and Lipschitz continuous mechanism.'
 date: 2025-07-06
-venue: 'The International Symposium on Algorithmic Game Theory (SAGT) 2025'
+venue: 'The International Symposium on Algorithmic Game Theory (SAGT)'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Fullerton, E.J., Hu, Z., Plaxton, C.G.: Constant-Approximate and Constant-Strategyproof Two-Facility Location (2025). In: Proceedings of the 18th International Symposium on Algorithmic Game Theory. (Sep 2025)'
 ---
