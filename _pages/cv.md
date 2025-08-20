@@ -11,26 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science, Princeton University, 2031 (expected)
+* B.A. in Information Science, Columbia University, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June 2025 - August 2025: Research Scientist
+  * Omen
+  * Duties included: Developing ETL pipelines and database infrastructure. Designing customer profiling system and multi-agent ecosystem for automated securities trading.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2023 - June 2025: Systems Engineer
+  * Epic
+  * Duties included: Developing and managing ETL pipelines and database infrastructure.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+{% comment %}
   
 Skills
 ======
@@ -41,11 +35,15 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+{% endcomment %}
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+{% comment %}
   
 Talks
 ======
@@ -62,3 +60,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+{% endcomment %}
