@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Princeton Profile.jpg"
-  name             : "Elijah Journey Fullerton"
+  avatar           : "PrincetonProfile.jpg"
+  name             : #"Elijah Journey Fullerton"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate in Computer Science at Princeton. Theory, AGT, CS+Law."
   location         : "Princeton, NJ"
