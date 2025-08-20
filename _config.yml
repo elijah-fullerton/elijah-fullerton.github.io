@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Princeton Profile.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Elijah Journey Fullerton"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D. candidate in Computer Science at Princeton. Theory, AGT, CS+Law."
+  location         : "Princeton, NJ"
+  employer         : "Princeton University"
   uri              : # URL
   email            : "ef0952 [at] princeton [dot] edu" 
 
