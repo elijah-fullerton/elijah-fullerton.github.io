@@ -23,7 +23,7 @@ repository               : "elijah-fullerton/elijah-fullerton.github.io"
 author:
   # Biographic information
   avatar           : "/images/PrincetonProfile.png"
-  name             : #"Elijah Journey Fullerton"
+  name             : "Elijah Journey Fullerton"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate in Computer Science. Theory, AGT, CS+Law."
   location         : "Princeton, NJ"
