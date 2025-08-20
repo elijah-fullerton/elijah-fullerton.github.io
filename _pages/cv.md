@@ -21,7 +21,7 @@ Work experience
   * Duties included: Developing ETL pipelines and database infrastructure. Designing customer profiling system and multi-agent ecosystem for automated securities trading.
 
 * May 2023 - June 2025: Systems Engineer
-  * Epic
+  * Epic Systems
   * Duties included: Developing and managing ETL pipelines and database infrastructure.
 
 {% comment %}
