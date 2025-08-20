@@ -6,36 +6,11 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
 
-{% capture render_pub %}
-<article class="archive__item">
-  <h2 class="archive__item-title">
-    {% if post.paperurl %}
-      <a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ post.title }}</a>
-    {% else %}
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    {% endif %}
-  </h2>
-
-  {%- comment -%}
-    Keep the standard meta line (authors/venue/year). Remove this include
-    if you want to fully customize that as well.
-  {%- endcomment -%}
-  {% include archive-single-meta.html %}
-
-  {% if post.excerpt %}
-    <p class="archive__item-excerpt">
-      {{ post.excerpt | markdownify | strip_html | truncate: 240 }}
-    </p>
-  {% endif %}
-</article>
-{% endcapture %}
-
-<!-- If categories are defined, keep grouping; otherwise just list all -->
 {% if site.publication_category %}
   {% for category in site.publication_category %}
     {% assign title_shown = false %}
@@ -43,16 +18,37 @@ author_profile: true
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
+
       {% unless title_shown %}
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
 
-      {{ render_pub }}
+      <article class="archive__item">
+        <h2 class="archive__item-title">
+          {% if post.paperurl %}
+            <a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ post.title }}</a>
+          {% else %}
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          {% endif %}
+        </h2>
+
+        {% include archive-single-meta.html %}
+
+        {% if post.excerpt %}
+          <p class="archive__item-excerpt">
+            {{ post.excerpt | markdownify | strip_html | truncate: 240 }}
+          </p>
+        {% endif %}
+      </article>
+
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    {{ render_pub }}
-  {% endfor %}
-{% endif %}
+    <article class="archive__item">
+      <h2 class="archive__item-title">
+        {% if post.paperurl %}
+          <a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ post.title }}</a>
+        {% else %}
+          <a href="{{ post.url | relative_url }}">{{ post.titl_
