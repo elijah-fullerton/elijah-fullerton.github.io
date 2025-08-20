@@ -22,7 +22,7 @@ repository               : "elijah-fullerton/elijah-fullerton.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/PrincetonProfile.png"
+  avatar           : "PrincetonProfile.png"
   name             : "Elijah Journey Fullerton"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate in Computer Science. Theory, AGT, CS+Law."
