@@ -14,6 +14,23 @@ Education
 * Ph.D. in Computer Science, Princeton University, 2031 (expected)
 * B.A. in Information Science, Columbia University, 2023
 
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Talks
+======
+* Swap Regret Minimization & Blackwell Approachability
+  * Presented at Tsinghua University, June 2026
+* Multicalibration & Omniprediction
+  * Presented at the Gems of Theoretical Computer Science Seminar, December 2025
+
+Service
+======
+* From September 2025 to the present, I have organized the weekly Gems of Theoretical Computer Science and Mechanism Design seminars at Princeton University.
+
 Work experience
 ======
 * June 2025 - August 2025: Research Scientist
@@ -37,19 +54,11 @@ Skills
 
 {% endcomment %}
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
 
 {% comment %}
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
