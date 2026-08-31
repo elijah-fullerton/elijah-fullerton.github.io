@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a first year Ph.D. student in the theory group of the computer science department at Princeton University where I am extremely fortunate to be advised by [Professor Mark Braverman](https://mbraverm.princeton.edu/). I am fascinated by the intersection of computer science and social good. As such, my research interests span a broad range of computer science theory, algorithmic game theory, and CS+Law. I completed my Bachelors of Arts in Information Science at Columbia University.
+Hello! I am a first year Ph.D. student in the theory group of the computer science department at Princeton University where I am extremely fortunate to be advised by [Professor Mark Braverman](https://mbraverm.princeton.edu/). My research focuses on learning in games. My work can be described as a mixture of online learning, mechanism design, algorithmic game theory, and theoretical computer science. I completed my Bachelors of Arts in Information Science at Columbia University.
 
 Acknowledgements
 ======
@@ -25,4 +25,4 @@ I am grateful to have received a [Foreign Language and Area Studies Fellowship](
 
 I began my undergraduate experience at the University of Pennsylvania, where I was fortunate enough to meet [Professor Robert Ghrist](https://www2.math.upenn.edu/~ghrist/), who inspired an early love of mathematics in me, and [Dr. James McGann](https://en.wikipedia.org/wiki/James_McGann), who inspired all of his students to strive towards accomplishing good and great things.
 
-In my studies, I have had the pleasure of meeting a great number of exceptionally talented peers who have supported me in more ways than I can succinctly describe. While this is far from a complete list, I must thank [Chris Denq](https://cdenq.github.io/), [Minuk Lee](https://www.linkedin.com/in/minuk-lee-875b9866/), and [Mark Lovett](https://math.dartmouth.edu/people/people-select.php?list=grads).
+In my studies, I have had the pleasure of meeting a great number of exceptionally talented peers who have supported me in more ways than I can succinctly describe. While this is far from a complete list, I must thank [Chris Denq](https://cdenq.github.io/), [Minuk Lee](https://www.linkedin.com/in/minuk-lee-875b9866/), and [Mark Lovett]((https://markslovett.github.io/)).
