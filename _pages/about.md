@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a first year Ph.D. student in the theory group of the computer science department at Princeton University where I am extremely fortunate to be advised by [Professor Mark Braverman](https://mbraverm.princeton.edu/). My research focuses on learning in games. My work can be described as a mixture of online learning, mechanism design, algorithmic game theory, and theoretical computer science. I completed my Bachelors of Arts in Information Science at Columbia University.
+Hello! I am a second year Ph.D. student in the theory group of the computer science department at Princeton University where I am extremely fortunate to be advised by [Professor Mark Braverman](https://mbraverm.princeton.edu/). My research focuses on learning in games. My work can be described as a mixture of online learning, mechanism design, algorithmic game theory, and theoretical computer science. I completed my Bachelors of Arts in Information Science at Columbia University.
 
 Acknowledgements
 ======
